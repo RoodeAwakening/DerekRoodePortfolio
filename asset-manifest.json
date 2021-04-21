@@ -1,25 +1,34 @@
 {
   "files": {
-    "main.css": "/DerekRoodePortfolio.github.io/static/css/main.40f0e6cc.chunk.css",
-    "main.js": "/DerekRoodePortfolio.github.io/static/js/main.9a151ecd.chunk.js",
-    "main.js.map": "/DerekRoodePortfolio.github.io/static/js/main.9a151ecd.chunk.js.map",
+    "main.css": "/DerekRoodePortfolio.github.io/static/css/main.b9dbed2d.chunk.css",
+    "main.js": "/DerekRoodePortfolio.github.io/static/js/main.9904bc3c.chunk.js",
+    "main.js.map": "/DerekRoodePortfolio.github.io/static/js/main.9904bc3c.chunk.js.map",
     "runtime-main.js": "/DerekRoodePortfolio.github.io/static/js/runtime-main.0a5aec9e.js",
     "runtime-main.js.map": "/DerekRoodePortfolio.github.io/static/js/runtime-main.0a5aec9e.js.map",
     "static/css/2.d64471e2.chunk.css": "/DerekRoodePortfolio.github.io/static/css/2.d64471e2.chunk.css",
-    "static/js/2.1fe55979.chunk.js": "/DerekRoodePortfolio.github.io/static/js/2.1fe55979.chunk.js",
-    "static/js/2.1fe55979.chunk.js.map": "/DerekRoodePortfolio.github.io/static/js/2.1fe55979.chunk.js.map",
+    "static/js/2.6770e8c5.chunk.js": "/DerekRoodePortfolio.github.io/static/js/2.6770e8c5.chunk.js",
+    "static/js/2.6770e8c5.chunk.js.map": "/DerekRoodePortfolio.github.io/static/js/2.6770e8c5.chunk.js.map",
     "index.html": "/DerekRoodePortfolio.github.io/index.html",
-    "precache-manifest.812b3242e611b94212da333b7732cb70.js": "/DerekRoodePortfolio.github.io/precache-manifest.812b3242e611b94212da333b7732cb70.js",
+    "precache-manifest.cee8ebd52bedc1a81a0a74deed64606f.js": "/DerekRoodePortfolio.github.io/precache-manifest.cee8ebd52bedc1a81a0a74deed64606f.js",
     "service-worker.js": "/DerekRoodePortfolio.github.io/service-worker.js",
     "static/css/2.d64471e2.chunk.css.map": "/DerekRoodePortfolio.github.io/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.40f0e6cc.chunk.css.map": "/DerekRoodePortfolio.github.io/static/css/main.40f0e6cc.chunk.css.map",
-    "static/js/2.1fe55979.chunk.js.LICENSE.txt": "/DerekRoodePortfolio.github.io/static/js/2.1fe55979.chunk.js.LICENSE.txt"
+    "static/css/main.b9dbed2d.chunk.css.map": "/DerekRoodePortfolio.github.io/static/css/main.b9dbed2d.chunk.css.map",
+    "static/js/2.6770e8c5.chunk.js.LICENSE.txt": "/DerekRoodePortfolio.github.io/static/js/2.6770e8c5.chunk.js.LICENSE.txt",
+    "static/media/css3.svg": "/DerekRoodePortfolio.github.io/static/media/css3.3707da3c.svg",
+    "static/media/flask.png": "/DerekRoodePortfolio.github.io/static/media/flask.04fe2ba1.png",
+    "static/media/html5.png": "/DerekRoodePortfolio.github.io/static/media/html5.3801cbe6.png",
+    "static/media/javascript.png": "/DerekRoodePortfolio.github.io/static/media/javascript.79046a55.png",
+    "static/media/postgresql.png": "/DerekRoodePortfolio.github.io/static/media/postgresql.50156c71.png",
+    "static/media/python.svg": "/DerekRoodePortfolio.github.io/static/media/python.146716bd.svg",
+    "static/media/react.svg": "/DerekRoodePortfolio.github.io/static/media/react.9a14aa91.svg",
+    "static/media/redux.png": "/DerekRoodePortfolio.github.io/static/media/redux.62cc7d7a.png",
+    "static/media/sqlalchemy.png": "/DerekRoodePortfolio.github.io/static/media/sqlalchemy.6e595a99.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0a5aec9e.js",
     "static/css/2.d64471e2.chunk.css",
-    "static/js/2.1fe55979.chunk.js",
-    "static/css/main.40f0e6cc.chunk.css",
-    "static/js/main.9a151ecd.chunk.js"
+    "static/js/2.6770e8c5.chunk.js",
+    "static/css/main.b9dbed2d.chunk.css",
+    "static/js/main.9904bc3c.chunk.js"
   ]
 }

@@ -27,6 +27,10 @@
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
         }
       ]
     },
@@ -41,16 +45,16 @@
       "url": "",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-react-original",
+          "name": "React"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-python-plain",
+          "name": "Python"
         }
       ]
     },
@@ -66,16 +70,12 @@
       "url": "https://github.com",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
         }
       ]
     }
@@ -88,15 +88,43 @@
       "mainTech": ["Angular 8/9/10"],
       "technologies": [
         "REST API",
-        "RxJS",
-        "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "RxJS"
       ]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Intern",
+      "years": "01.2018 - 09.2019",
+      "mainTech": ["Angular 7/8"],
+      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Intern",
+      "years": "01.2018 - 09.2019",
+      "mainTech": ["Angular 7/8"],
+      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Intern",
+      "years": "01.2018 - 09.2019",
+      "mainTech": ["Angular 7/8"],
+      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Intern",
+      "years": "01.2018 - 09.2019",
+      "mainTech": ["Angular 7/8"],
+      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Intern",
+      "years": "01.2018 - 09.2019",
+      "mainTech": ["Angular 7/8"],
+      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
     },
     {
       "company": "Serros Solutions",

@@ -1,11 +1,11 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Derek Roode",
+      "titles": [ "Full Stack Engineer", "Design Focused", "Experienced Manager", "Mobile App Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/RoodeAwakening",
           "class": "fab fa-github"
         },
         {

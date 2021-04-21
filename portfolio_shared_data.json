@@ -45,8 +45,8 @@
         },
         {
           "name": "Nodes",
-          "image": "myProfile.jpg",
-          "level": "75"
+            "level": "75",
+            "node-image": "myProfile.jpg"
         }
       ]
     }

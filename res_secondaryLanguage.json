@@ -86,94 +86,90 @@
         "title": "Amministratore delegato",
         "years": "07.2017 - presente",
         "mainTech": ["Comando","Marketing","I saldi","Sviluppo"],
-        "technologies": ["Mi sono valutato nel 5% più alto di tutti i professionisti del matrimonio.","Aumento del fatturato del 50% anno su anno.","Semplificato il processo di registrazione con l'uso di un'app."],
-        "blurb1":[],
-        "blurb2":[],
-        "blurb3":[]
+        "technologies": [""],
+        "blurb1":["Mi sono valutato nel 5% più alto di tutti i professionisti del matrimonio."],
+        "blurb2":["Aumento del fatturato del 50% anno su anno."],
+        "blurb3":["Semplificato il processo di registrazione con l'uso di un'app."]
       },
       {
         "company": "Ganley Westside Imports",
         "title": "Esperto di Vendite",
         "years": "11.2019 - 11.2020",
         "mainTech": ["I saldi","Marketing"],
-        "technologies": ["Campagna di marketing implementata per la concessionaria tramite annunci locali di Facebook.",
-          "Raggiunta la prima posizione di vendita all'interno della concessionaria entro i primi 3 mesi."],
-          "blurb1":[],
-          "blurb2":[],
-          "blurb3":[]
+        "technologies": [""],
+          "blurb1":["Campagna di marketing implementata per la concessionaria tramite annunci locali di Facebook."],
+          "blurb2":["Raggiunta la prima posizione di vendita all'interno della concessionaria entro i primi 3 mesi."],
+          "blurb3":[""]
       },
       {
         "company": "Sentient Studios",
         "title": "Senior Account Executive",
         "years": "10.2018 - 11.2019",
         "mainTech": ["I saldi","Marketing", "Animazione"],
-        "technologies": ["Sviluppato un'app di vendita con Android Studio.","Ha costruito un portafoglio di vendite stabile raggiungendo $ 500.000 con un obiettivo di $ 200.000.","Ha prodotto video di marketing, animazioni e grafica 3D progettati in Cinema4D."],
-        "blurb1":[],
-        "blurb2":[],
-        "blurb3":[]
+        "technologies": [""],
+        "blurb1":["Sviluppato un'app di vendita con Android Studio."],
+        "blurb2":["Ha costruito un portafoglio di vendite stabile raggiungendo $ 500.000 con un obiettivo di $ 200.000."],
+        "blurb3":["Ha prodotto video di marketing, animazioni e grafica 3D progettati in Cinema4D."]
       },
       {
         "company": "Fifth Third Bank",
         "title": "Banchiere personale II",
         "years": "10.2017 - 09.2018",
         "mainTech": ["Finanza", "I saldi"],
-        "technologies": [
-          "Portafoglio clienti ampliato con l'introduzione di prodotti per il miglioramento della ricchezza.", "Utilizzo di un approccio di vendita equilibrato, per raggiungere gli obiettivi di vendita."],
-          "blurb1":[],
-          "blurb2":[],
-          "blurb3":[]
+        "technologies": [""],
+          "blurb1":["Portafoglio clienti ampliato con l'introduzione di prodotti per il miglioramento della ricchezza."],
+          "blurb2":["Utilizzo di un approccio di vendita equilibrato, per raggiungere gli obiettivi di vendita."],
+          "blurb3":[""]
       },
       {
         "company": "GoGsf",
         "title": "Funzionario senior di prestito ipotecario",
         "years": "06.2016 - 10.2017",
         "mainTech": ["Finance", "I saldi", "Marketing"],
-        "technologies": ["Lancio del marketing con Google Ads; $ 2.000 - $ 6.000 mensili.", "Prestiti ai clienti amministrati e chiusi", "Rapporti sviluppati e mantenuti con i partner."],
-        "blurb1":[],
-        "blurb2":[],
-        "blurb3":[]
+        "technologies": [""],
+        "blurb1":["Lancio del marketing con Google Ads; $ 2.000 - $ 6.000 mensili."],
+        "blurb2":["Prestiti ai clienti amministrati e chiusi"],
+        "blurb3":["Rapporti sviluppati e mantenuti con i partner."]
       },
       {
         "company": "Verizon",
         "title": "Responsabile dello sviluppo aziendale",
         "years": "08.2015 - 06.2016",
         "mainTech": ["Sviluppo aziendale", "I saldi"],
-        "technologies": ["Strategia di vendita dei partner commerciali sviluppata che produce il 13% su base mensile", "Obiettivi di vendita del team superati del 300%."],
-        "blurb1":[],
-        "blurb2":[],
-        "blurb3":[]
+        "technologies": [""],
+        "blurb1":["Strategia di vendita dei partner commerciali sviluppata che produce il 13% su base mensile"],
+        "blurb2":["Obiettivi di vendita del team superati del 300%."],
+        "blurb3":[""]
       },
       {
         "company": "Fame and Philanthropy",
         "title": "Produrre Regional Manager",
         "years": "08.2013 - 08.2015",
         "mainTech": ["Sviluppo aziendale", "I saldi", "Comando", "Marketing"],
-        "technologies": ["Creato strategie di marketing su Internet che hanno portato a un aumento delle vendite del 38%.", "Supporto del team di vendita nella chiusura di contratti per un totale di oltre 1 milione di dollari per evento.", "Raccogli fondi per enti di beneficenza con il presidente Bill Clinton e Hugh Hefner ..."],
-        "blurb1":[],
-        "blurb2":[],
-        "blurb3":[]
+        "technologies": [""],
+        "blurb1":["Creato strategie di marketing su Internet che hanno portato a un aumento delle vendite del 38%."],
+        "blurb2":["Supporto del team di vendita nella chiusura di contratti per un totale di oltre 1 milione di dollari per evento."],
+        "blurb3":["Raccogli fondi per enti di beneficenza con il presidente Bill Clinton e Hugh Hefner ..."]
       },
       {
         "company": "Quicken Loans",
         "title": "Senior VA Mortgage Banker",
         "years": "12.2011 - 08.2014",
         "mainTech": ["Finanza", "Comando", "I saldi"],
-        "technologies": [
-          "Classificato tra i primi 5% degli addetti alle vendite a livello regionale", "Superato regolarmente l'obiettivo di vendita di oltre il 70%", "Flusso di entrate gestito di $ 750 milioni all'anno."],
-          "blurb1":[],
-          "blurb2":[],
-          "blurb3":[]
+        "technologies": [""],
+          "blurb1":["Classificato tra i primi 5% degli addetti alle vendite a livello regionale"],
+          "blurb2":["Superato regolarmente l'obiettivo di vendita di oltre il 70%"],
+          "blurb3":["Flusso di entrate gestito di $ 750 milioni all'anno."]
       },
       {
         "company": "Best Buy",
         "title": "Direttore del dipartimento",
         "years": "10.2006 - 12.2011",
         "mainTech": ["Comando", "I saldi"],
-        "technologies": [
-          "Aumento dei ricavi dei servizi del 210% entro il primo anno come Sales Manager.", "Obiettivo di vendita annuale regionale superato del 112%.", "Supervisionato una forza vendita di 8 addetti alle vendite."],
-          "blurb1":[],
-          "blurb2":[],
-          "blurb3":[]
+        "technologies": [""],
+          "blurb1":["Aumento dei ricavi dei servizi del 210% entro il primo anno come Sales Manager."],
+          "blurb2":["Obiettivo di vendita annuale regionale superato del 112%."],
+          "blurb3":["Supervisionato una forza vendita di 8 addetti alle vendite."]
       }
     ]
   }

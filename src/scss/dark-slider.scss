@@ -81,10 +81,10 @@ $content-background-color: #8C8C8C;
     display: block;
     width: 100%;
     height: 0;
-    padding-bottom: var(--slider-height-percentage);
+    padding-bottom: let(--slider-height-percentage);
 
     @media all and (max-width: 500px) {
-      padding-bottom: calc(var(--slider-height-percentage) * 1.25);
+      padding-bottom: calc(let(--slider-height-percentage) * 1.25);
     }
 
     figure {
@@ -111,7 +111,7 @@ $content-background-color: #8C8C8C;
   }
   &__content {
     @extend %fill-parent;
-    background-color: var(--content-background-color);
+    background-color: let(--content-background-color);
     overflow: hidden;
     display: flex;
     align-items: center;
@@ -129,33 +129,33 @@ $content-background-color: #8C8C8C;
       display: flex;
       align-items: center;
       justify-content: center;
-      width: var(--control-button-width);
-      height: var(--control-button-height);
+      width: let(--control-button-width);
+      height: let(--control-button-height);
       position: absolute;
       z-index: 10;
-      top: calc(50% - (0.5 * var(--control-button-height)));
+      top: calc(50% - (0.5 * let(--control-button-height)));
       border: none;
-      background-color: var(--control-button-background);
+      background-color: let(--control-button-background);
       color: #fff;
       cursor: pointer;
       .#{$root-element}__controls__arrow-left,
       .#{$root-element}__controls__arrow-right {
-        opacity: var(--control-button-opacity);
+        opacity: let(--control-button-opacity);
       }
       &:hover {
         .#{$root-element}__controls__arrow-left,
         .#{$root-element}__controls__arrow-right {
-          opacity: var(--control-button-opacity-hover);
+          opacity: let(--control-button-opacity-hover);
         }
       }
     }
     &--active {
       .#{$root-element}__controls__arrow-left {
-        opacity: var(--control-button-opacity-hover);
+        opacity: let(--control-button-opacity-hover);
         transform: translate3d(-100%, 0, 0);
       }
       .#{$root-element}__controls__arrow-right {
-        opacity: var(--control-button-opacity-hover);
+        opacity: let(--control-button-opacity-hover);
         transform: translate3d(100%, 0, 0);
       }
     }
@@ -169,13 +169,13 @@ $content-background-color: #8C8C8C;
   &__bar {
     display: block;
     width: 100%;
-    height: var(--loader-bar-height);
-    background-color: var(--loader-bar-color);
+    height: let(--loader-bar-height);
+    background-color: let(--loader-bar-color);
     position: absolute;
     top: 0;
     left: 0;
     z-index: 101;
-    transition: transform 3000ms var(--transition-bezier);
+    transition: transform 3000ms let(--transition-bezier);
     transform: translate3d(-100%, 0, 0);
     &--active {
       transform: translate3d(-20%, 0, 0);
@@ -215,22 +215,22 @@ $content-background-color: #8C8C8C;
   }
   &--moveRight {
     // transform: translate3d(100%, 0, 0);
-    animation: slideFromRight var(--slider-transition-duration) both
-      var(--transition-bezier);
+    animation: slideFromRight let(--slider-transition-duration) both
+      let(--transition-bezier);
   }
   &--moveLeft {
-    animation: slideFromLeft var(--slider-transition-duration) both
-      var(--transition-bezier);
+    animation: slideFromLeft let(--slider-transition-duration) both
+      let(--transition-bezier);
   }
   &--exit {
     z-index: 0;
     &.#{$root-element}--moveLeft {
-      animation: slideToLeft var(--slider-transition-duration) both
-        var(--transition-bezier);
+      animation: slideToLeft let(--slider-transition-duration) both
+        let(--transition-bezier);
     }
     &.#{$root-element}--moveRight {
-      animation: slideToRight var(--slider-transition-duration) both
-        var(--transition-bezier);
+      animation: slideToRight let(--slider-transition-duration) both
+        let(--transition-bezier);
     }
   }
   &--first {
@@ -270,7 +270,7 @@ $content-background-color: #8C8C8C;
       height: 16px;
       margin: 5px;
       border-radius: 50%;
-      background: var(--control-bullet-color);
+      background: let(--control-bullet-color);
       text-indent: -9999px;
       overflow: hidden;
       cursor: pointer;
@@ -287,7 +287,7 @@ $content-background-color: #8C8C8C;
     }
     .#{$root-element}__bullets--active {
       transform: scale(1.5);
-      background: var(--control-bullet-active-color);
+      background: let(--control-bullet-active-color);
 
       &:hover {
         transform: scale(1.5);
@@ -298,7 +298,7 @@ $content-background-color: #8C8C8C;
   &__controls__arrow-left,
   &__controls__arrow-right {
     width: 100%;
-    height: var(--organic-arrow-height);
+    height: let(--organic-arrow-height);
     position: relative;
     display: block;
     transition: transform 0.2s ease-out 0.125s, opacity 0.2s ease-out;
@@ -309,14 +309,14 @@ $content-background-color: #8C8C8C;
       right: calc(
         50% -
           (
-            #{$cos45} * (var(--organic-arrow-height) +
-                  var(--organic-arrow-thickness))
+            #{$cos45} * (let(--organic-arrow-height) +
+                  let(--organic-arrow-thickness))
           ) / 2
       );
       height: 100%;
-      border-radius: var(--organic-arrow-border-radius);
-      width: var(--organic-arrow-thickness);
-      background-color: var(--organic-arrow-color);
+      border-radius: let(--organic-arrow-border-radius);
+      width: let(--organic-arrow-thickness);
+      background-color: let(--organic-arrow-color);
       transition: transform 0.15s ease-out, background-color 0.15s ease-out;
     }
     &:before {
@@ -350,8 +350,8 @@ $content-background-color: #8C8C8C;
       left: calc(
         50% -
           (
-            #{$cos45} * (var(--organic-arrow-height) +
-                  var(--organic-arrow-thickness))
+            #{$cos45} * (let(--organic-arrow-height) +
+                  let(--organic-arrow-thickness))
           ) / 2
       );
     }
@@ -407,8 +407,8 @@ $content-background-color: #8C8C8C;
     --timer-background-color: rgba(0, 0, 0, 0.15);
 
     width: 100%;
-    height: var(--timer-height);
-    background-color: var(--timer-background-color);
+    height: let(--timer-height);
+    background-color: let(--timer-background-color);
     position: absolute;
     top: 0;
     left: 0;
@@ -417,7 +417,7 @@ $content-background-color: #8C8C8C;
 
     &--animated {
       will-change: transform;
-      transition: transform var(--timer-delay) linear;
+      transition: transform let(--timer-delay) linear;
     }
 
     &--run {
@@ -425,13 +425,13 @@ $content-background-color: #8C8C8C;
     }
 
     &--fast {
-      transition: transform calc(var(--timer-release) / 2) linear;
+      transition: transform calc(let(--timer-release) / 2) linear;
       transform: translateX(-0.00001px);
     }
 
     &--end {
       transform: translateX(-0.0001px);
-      transition: transform var(--timer-release) linear;
+      transition: transform let(--timer-release) linear;
     }
 
     &--hidden {

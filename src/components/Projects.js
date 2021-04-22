@@ -11,11 +11,11 @@ class Projects extends Component {
   }
 
   render() {
-    let detailsModalShow = (data) => {
+    var detailsModalShow = (data) => {
       this.setState({ detailsModalShow: true, deps: data });
     };
 
-    let detailsModalClose = () => this.setState({ detailsModalShow: false });
+    var detailsModalClose = () => this.setState({ detailsModalShow: false });
     if (this.props.resumeProjects && this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.projects;
       var projects = this.props.resumeProjects.map(function (projects) {

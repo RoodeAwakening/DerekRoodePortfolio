@@ -1,48 +1,24 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Ciao",
+      "description": "👋 Sono Derek Roode. Sono uno sviluppatore di software Full Stack. Sono esperto in linguaggi come React, Redux, Flask ed Express. Sono uno sviluppatore di software appassionato con la mentalità innovativa e creativa di un imprenditore. Pensare fuori dagli schemi è ciò che so fare meglio. Ho esperienza nella creazione di applicazioni web dinamiche in JavaScript, React, Redux e HTML / CSS con particolare attenzione all'interfaccia utente e al design. Amo la battaglia per sviluppare un'idea in esistenza e creare il ponte tra la concettualizzazione e un prodotto tangibile e di impatto. Ho la reputazione di fare grandi domande, spedire codici di qualità, essere una coppia forte e lavorare bene tra i team.",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Su di me",
+        "projects": "Progetti",
+        "skills": "Competenze",
+        "experience": "Esperienza"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "BoxIt",
+        "startDate": "2021",
+        "description": "Il tuo allenatore di boxe AI! Ottieni l'allenamento che meriti! Sviluppatore, React, Javascript, Flask · Un allenatore di boxe interattivo intelligente che verrà caricato con allenamenti e servito in base alla quantità di preferiti che ricevono. Sfida i tuoi amici e colleghi di lavoro in cima alla classifica o crea un nuovo gruppo e sfidati a vicenda dall'interno. Frontend e backend a sviluppo completo",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/boxit/img1.gif",
+          "images/portfolio/boxit/img2.gif"
         ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
+        "url": "https://boxitai.herokuapp.com/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -51,66 +27,122 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Fetch",
+        "startDate": "2020",
+        "description": "Una delle applicazioni più estese che ho avuto l'opportunità di costruire. Sviluppatore, React Js, Javascript, Redux · Abbiamo un sogno e quel sogno è quello di avere un sito in cui puoi andare in qualsiasi momento giorno e notte e guardare migliaia di foto di cani !!! Chi non ama quell'idea! Con il nostro software di riconoscimento delle immagini top di gamma possiamo verificare che ogni immagine contenga effettivamente l'immagine di un cane.",
+        "images": [
+          "images/portfolio/fetch/p1.jpg",
+          "images/portfolio/fetch/p2.jpg"
+        ],
+        "url": "https://www.fetchigram.com/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Good Games",
+        "startDate": "2020",
+        "description": "Una delle prime app su cui ho lavorato con un gruppo remoto. Ho contribuito a sviluppare il front-end e il back-end dell'applicazione. GoodGames è un sito di catalogazione di giochi che consente alle persone di valutare, commentare e sfogliare videogiochi di tutti i tipi. Gli utenti possono registrarsi e registrarsi per aggiungere giochi al proprio Game Center per far sapere agli altri a quali giochi vogliono giocare, a cosa stanno attualmente giocando e a cosa hanno già giocato.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://goodgames-a.herokuapp.com/login",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "HTML 5",
+            "class": "devicon-html5-plain"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
+        "company": "The Wedding Coach",
+        "title": "Chief Executive Officer",
+        "years": "07.2017 - present",
+        "mainTech": ["Leadership","Marketing","Sales","Development"],
+        "technologies": ["Evaluated myself within the top 5% of all wedding professionals.","Increased revenue by 50% year over year.","Streamlined the signup process through with the use of an app."]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
+        "company": "Ganley Westside Imports",
+        "title": "Sales Specialist",
+        "years": "11.2019 - 11.2020",
+        "mainTech": ["Sales","Marketing"],
+        "technologies": ["Implemented Marketing campaign for dealership through Facebook local ads. ","Achieved top sales position within dealership within the first 3 months."]
+      },
+      {
+        "company": "Sentient Studios",
+        "title": "Senior Account Executive",
+        "years": "10.2018 - 11.2019",
+        "mainTech": ["Angular 7/8"],
+        "technologies": ["Developed a sales app with Android Studio.","Built a steady sales portfolio reaching $500k on a goal of $200k.","Produced marketing videos, animations and 3d graphics designed in Cinema4D"]
+      },
+      {
+        "company": "Fifth Third Bank",
+        "title": "Personal Banker II",
+        "years": "10.2017 - 09.2018",
+        "mainTech": ["Finance", "Sales"],
+        "technologies": ["Expanded clients portfolio with introduction of wealth enhancement products.","Utilized a balanced sales approach, to meet sales goals."]
+      },
+      {
+        "company": "GoGsf",
+        "title": "Senior Mortgage Loan Officer",
+        "years": "06.2016 - 10.2017",
+        "mainTech": ["Finance", "Sales", "Marketing"],
+        "technologies": ["Marketing launch with Google Ads; $2,000 - $6,000 Monthly.","Administered and closed customer loans.","Developed and maintained relationships with partners."]
+      },
+      {
+        "company": "Verizon",
+        "title": "Business Development Manager",
+        "years": "08.2015 - 06.2016",
+        "mainTech": ["Business Development", "Sales"],
+        "technologies": ["Developed business partner sales strategy producing 13% MoM","Exceeded team sales goals by 300%"]
+      },
+      {
+        "company": "Fame and Philanthropy",
+        "title": "Producing Regional Manager",
+        "years": "08.2013 - 08.2015",
+        "mainTech": ["Business Development", "Sales", "Leadership", "Marketing"],
+        "technologies": ["Created Internet marketing strategies that resulted in a 38% sales increase.","Supported sales team in closing contracts totaling over $1MM per event.","Raise money for charities with President Bill Clinton and Hugh Hefner  ..."]
+      },
+      {
+        "company": "Quicken Loans",
+        "title": "Senior VA Mortgage Banker",
+        "years": "12.2011 - 08.2014",
+        "mainTech": ["Finance", "Leadership", "Sales"],
+        "technologies": ["Ranked at top 5% of sales associates regionally","Regularly exceeded sales goal by over 70%","Managed revenue stream of $750MM annually"]
+      },
+      {
+        "company": "Best Buy",
+        "title": "Department Manager",
+        "years": "10.2006 - 12.2011",
+        "mainTech": ["Leadership", "Sales"],
+        "technologies": ["Increased service revenues by 210% within the first year as Sales Manager.","Exceeded regional annual sales target by 112%.","Supervised a sales force of 8 sales associates."]
       }
     ]
   }
+  

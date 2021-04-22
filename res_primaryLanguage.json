@@ -18,7 +18,7 @@
         "images/portfolio/boxit/img1.gif",
         "images/portfolio/boxit/img2.gif"
       ],
-      "url": "https://github.com",
+      "url": "https://boxitai.herokuapp.com/",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -42,7 +42,7 @@
         "images/portfolio/fetch/p1.jpg",
         "images/portfolio/fetch/p2.jpg"
       ],
-      "url": "",
+      "url": "https://www.fetchigram.com/",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -67,7 +67,7 @@
         "images/portfolio/good-games/p2.gif",
         "images/portfolio/good-games/p3.gif"
       ],
-      "url": "https://github.com",
+      "url": "https://goodgames-a.herokuapp.com/login",
       "technologies": [
         {
           "class": "devicon-javascript-plain",

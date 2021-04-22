@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b35c791e7af1cab1cf7d80a059311333",
+    "revision": "268de021abaa63e0b8b3a1f40e3ec731",
     "url": "/DerekRoodePortfolio.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DerekRoodePortfolio.github.io/static/css/2.d64471e2.chunk.css"
   },
   {
-    "revision": "01727f49f87f99f60f5c",
+    "revision": "ae4fab6e0243ad3d3dbd",
     "url": "/DerekRoodePortfolio.github.io/static/css/main.b9dbed2d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DerekRoodePortfolio.github.io/static/js/2.6770e8c5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "01727f49f87f99f60f5c",
-    "url": "/DerekRoodePortfolio.github.io/static/js/main.9904bc3c.chunk.js"
+    "revision": "ae4fab6e0243ad3d3dbd",
+    "url": "/DerekRoodePortfolio.github.io/static/js/main.38791c02.chunk.js"
   },
   {
     "revision": "2e55f1cfeb8b9469c63f",

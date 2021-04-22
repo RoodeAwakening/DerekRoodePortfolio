@@ -63,8 +63,9 @@
         "startDate": "2020",
         "description": "Una delle prime app su cui ho lavorato con un gruppo remoto. Ho contribuito a sviluppare il front-end e il back-end dell'applicazione. GoodGames è un sito di catalogazione di giochi che consente alle persone di valutare, commentare e sfogliare videogiochi di tutti i tipi. Gli utenti possono registrarsi e registrarsi per aggiungere giochi al proprio Game Center per far sapere agli altri a quali giochi vogliono giocare, a cosa stanno attualmente giocando e a cosa hanno già giocato.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/good-games/p1.gif",
+          "images/portfolio/good-games/p2.gif",
+          "images/portfolio/good-games/p3.gif"
         ],
         "url": "https://goodgames-a.herokuapp.com/login",
         "technologies": [
@@ -82,66 +83,70 @@
     "experience": [
       {
         "company": "The Wedding Coach",
-        "title": "Chief Executive Officer",
-        "years": "07.2017 - present",
-        "mainTech": ["Leadership","Marketing","Sales","Development"],
-        "technologies": ["Evaluated myself within the top 5% of all wedding professionals.","Increased revenue by 50% year over year.","Streamlined the signup process through with the use of an app."]
+        "title": "Amministratore delegato",
+        "years": "07.2017 - presente",
+        "mainTech": ["Comando","Marketing","I saldi","Sviluppo"],
+        "technologies": ["Mi sono valutato nel 5% più alto di tutti i professionisti del matrimonio.","Aumento del fatturato del 50% anno su anno.","Semplificato il processo di registrazione con l'uso di un'app."]
       },
       {
         "company": "Ganley Westside Imports",
-        "title": "Sales Specialist",
+        "title": "Esperto di Vendite",
         "years": "11.2019 - 11.2020",
-        "mainTech": ["Sales","Marketing"],
-        "technologies": ["Implemented Marketing campaign for dealership through Facebook local ads. ","Achieved top sales position within dealership within the first 3 months."]
+        "mainTech": ["I saldi","Marketing"],
+        "technologies": ["Campagna di marketing implementata per la concessionaria tramite annunci locali di Facebook.",
+          "Raggiunta la prima posizione di vendita all'interno della concessionaria entro i primi 3 mesi."]
       },
       {
         "company": "Sentient Studios",
         "title": "Senior Account Executive",
         "years": "10.2018 - 11.2019",
-        "mainTech": ["Angular 7/8"],
-        "technologies": ["Developed a sales app with Android Studio.","Built a steady sales portfolio reaching $500k on a goal of $200k.","Produced marketing videos, animations and 3d graphics designed in Cinema4D"]
+        "mainTech": ["I saldi","Marketing", "Animazione"],
+        "technologies": ["Sviluppato un'app di vendita con Android Studio.","Ha costruito un portafoglio di vendite stabile raggiungendo $ 500.000 con un obiettivo di $ 200.000.","Ha prodotto video di marketing, animazioni e grafica 3D progettati in Cinema4D."]
       },
       {
         "company": "Fifth Third Bank",
-        "title": "Personal Banker II",
+        "title": "Banchiere personale II",
         "years": "10.2017 - 09.2018",
-        "mainTech": ["Finance", "Sales"],
-        "technologies": ["Expanded clients portfolio with introduction of wealth enhancement products.","Utilized a balanced sales approach, to meet sales goals."]
+        "mainTech": ["Finanza", "I saldi"],
+        "technologies": [
+          "Portafoglio clienti ampliato con l'introduzione di prodotti per il miglioramento della ricchezza.", "Utilizzo di un approccio di vendita equilibrato, per raggiungere gli obiettivi di vendita."]
       },
       {
         "company": "GoGsf",
-        "title": "Senior Mortgage Loan Officer",
+        "title": "Funzionario senior di prestito ipotecario",
         "years": "06.2016 - 10.2017",
-        "mainTech": ["Finance", "Sales", "Marketing"],
-        "technologies": ["Marketing launch with Google Ads; $2,000 - $6,000 Monthly.","Administered and closed customer loans.","Developed and maintained relationships with partners."]
+        "mainTech": ["Finance", "I saldi", "Marketing"],
+        "technologies": ["Lancio del marketing con Google Ads; $ 2.000 - $ 6.000 mensili.", "Prestiti ai clienti amministrati e chiusi", "Rapporti sviluppati e mantenuti con i partner."]
       },
       {
         "company": "Verizon",
-        "title": "Business Development Manager",
+        "title": "Responsabile dello sviluppo aziendale",
         "years": "08.2015 - 06.2016",
-        "mainTech": ["Business Development", "Sales"],
-        "technologies": ["Developed business partner sales strategy producing 13% MoM","Exceeded team sales goals by 300%"]
+        "mainTech": ["Sviluppo aziendale", "I saldi"],
+        "technologies": ["Strategia di vendita dei partner commerciali sviluppata che produce il 13% su base mensile", "Obiettivi di vendita del team superati del 300%."]
       },
       {
         "company": "Fame and Philanthropy",
-        "title": "Producing Regional Manager",
+        "title": "Produrre Regional Manager",
         "years": "08.2013 - 08.2015",
-        "mainTech": ["Business Development", "Sales", "Leadership", "Marketing"],
-        "technologies": ["Created Internet marketing strategies that resulted in a 38% sales increase.","Supported sales team in closing contracts totaling over $1MM per event.","Raise money for charities with President Bill Clinton and Hugh Hefner  ..."]
+        "mainTech": ["Sviluppo aziendale", "I saldi", "Comando", "Marketing"],
+        "technologies": ["Creato strategie di marketing su Internet che hanno portato a un aumento delle vendite del 38%.", "Supporto del team di vendita nella chiusura di contratti per un totale di oltre 1 milione di dollari per evento.", "Raccogli fondi per enti di beneficenza con il presidente Bill Clinton e Hugh Hefner ..."]
       },
       {
         "company": "Quicken Loans",
         "title": "Senior VA Mortgage Banker",
         "years": "12.2011 - 08.2014",
-        "mainTech": ["Finance", "Leadership", "Sales"],
-        "technologies": ["Ranked at top 5% of sales associates regionally","Regularly exceeded sales goal by over 70%","Managed revenue stream of $750MM annually"]
+        "mainTech": ["Finanza", "Comando", "I saldi"],
+        "technologies": [
+          "Classificato tra i primi 5% degli addetti alle vendite a livello regionale", "Superato regolarmente l'obiettivo di vendita di oltre il 70%", "Flusso di entrate gestito di $ 750 milioni all'anno."]
       },
       {
         "company": "Best Buy",
-        "title": "Department Manager",
+        "title": "Direttore del dipartimento",
         "years": "10.2006 - 12.2011",
-        "mainTech": ["Leadership", "Sales"],
-        "technologies": ["Increased service revenues by 210% within the first year as Sales Manager.","Exceeded regional annual sales target by 112%.","Supervised a sales force of 8 sales associates."]
+        "mainTech": ["Comando", "I saldi"],
+        "technologies": [
+          "Aumento dei ricavi dei servizi del 210% entro il primo anno come Sales Manager.", "Obiettivo di vendita annuale regionale superato del 112%.", "Supervisionato una forza vendita di 8 addetti alle vendite."]
       }
     ]
   }

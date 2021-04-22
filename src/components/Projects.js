@@ -11,11 +11,11 @@ class Projects extends Component {
   }
 
   render() {
-    var detailsModalShow = (data) => {
+    let detailsModalShow = (data) => {
       this.setState({ detailsModalShow: true, deps: data });
     };
 
-    var detailsModalClose = () => this.setState({ detailsModalShow: false });
+    let detailsModalClose = () => this.setState({ detailsModalShow: false });
     if (this.props.resumeProjects && this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.projects;
       var projects = this.props.resumeProjects.map(function (projects) {
@@ -32,7 +32,6 @@ class Projects extends Component {
                     src={projects.images[0]}
                     alt="projectImages"
                     height="230"
-                    overflow="hidden"
                     style={{marginBottom: 0, paddingBottom: 0, position: 'relative'}}
                   />
                   <span className="project-date">{projects.startDate}</span>

@@ -1,14 +1,14 @@
 import React, { Component } from "react";
 
-import cssImg from "../images/language-icons/css3.svg"
-import flaskImg from "../images/language-icons/flask.png"
-import html5Img from "../images/language-icons/html5.png"
-import javascriptImg from "../images/language-icons/javascript.png"
-import postgresqlImg from "../images/language-icons/postgresql.png"
-import pythonImg from "../images/language-icons/python.svg"
-import reactImg from "../images/language-icons/react.svg"
-import reduxImg from "../images/language-icons/redux.png"
-import sqlalchemyImg from "../images/language-icons/sqlalchemy.png"
+import cssImg from "../icons/language-icons/css3.svg"
+import flaskImg from "../icons/language-icons/flask.png"
+import html5Img from "../icons/language-icons/html5.png"
+import javascriptImg from "../icons/language-icons/javascript.png"
+import postgresqlImg from "../icons/language-icons/postgresql.png"
+import pythonImg from "../icons/language-icons/python.svg"
+import reactImg from "../icons/language-icons/react.svg"
+import reduxImg from "../icons/language-icons/redux.png"
+import sqlalchemyImg from "../icons/language-icons/sqlalchemy.png"
 
 
 let css = {image:cssImg, name:"CSS"}

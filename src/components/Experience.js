@@ -13,6 +13,9 @@ class Experience extends Component {
       var work = this.props.resumeExperience.map(function (work, i) {
         const technologies = work.technologies;
         const mainTechnologies = work.mainTech;
+        const blurb1 = work.blurb1;
+        const blurb2 = work.blurb2;
+        const blurb3 = work.blurb3;
 
         var mainTech = mainTechnologies.map((technology, i) => {
           return (
@@ -56,7 +59,11 @@ class Experience extends Component {
               style={{ textAlign: "left" }}
             >
               {work.company}
+             
             </h4>
+            <div style={{ textAlign: "left", marginTop: "15px" }}> {blurb1}</div>
+            <div style={{ textAlign: "left", marginTop: "15px" }}> {blurb2}</div>
+            <div style={{ textAlign: "left", marginTop: "15px" }}> {blurb3}</div>
             <div style={{ textAlign: "left", marginTop: "15px" }}>{tech}</div>
           </VerticalTimelineElement>
         );

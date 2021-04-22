@@ -28,6 +28,7 @@ class Skills extends Component {
   render() {
     if (this.props.sharedSkills && this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.skills;
+      // use the line below if you plan to use the json file
       // var skills = this.props.sharedSkills.icons.map(function (skills, i) {
       var skills = mySkills.map(function (skills, i) {
         console.log('skil',skills.image);

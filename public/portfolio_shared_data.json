@@ -12,6 +12,16 @@
           "name": "instagram",
           "url": "https://www.instagram.com/theweddingcoachoh/",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "email",
+          "url": "mailto:derek.i.roode@gmail.com",
+          "class": "far fa-envelope"
+        },
+        {
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/derek-roode-9014a796/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"

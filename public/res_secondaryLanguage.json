@@ -80,6 +80,59 @@
         ]
       }
     ],
+    "media": [
+      {
+        "title": "Sentient Studios",
+        "startDate": "2019",
+        "description": "Specializzato in grafica 3D, editing video, produzione, marketing e vendite.",
+        "images": [
+          "images/portfolio/sentient/sentient02.gif",
+          "images/portfolio/sentient/sentient01.gif"
+        ],
+        "url": "http://sentientstudios.ltd/",
+        "technologies": [
+          {
+            "class": "fas fa-photo-video",
+            "name": "Adobe After Effects"
+          },
+          {
+            "class": "fas fa-camera-retro",
+            "name": "Adobe Premier Pro"
+          },
+          {
+            "class": "fas fa-cube",
+            "name": "Cinema 4D"
+          }
+        ]
+      },
+      {
+        "title": "The Traveling Diver",
+        "startDate": "2018",
+        "description": "Viaggiare per il mondo e immergersi! Un canale per documentare il viaggio.",
+        "images": [
+          "images/portfolio/travelingdiver/diver01.gif",
+          "images/portfolio/travelingdiver/diver03.gif",
+          "images/portfolio/travelingdiver/diver04.gif",
+          "images/portfolio/travelingdiver/diver02.gif"
+          
+        ],
+        "url": "https://www.youtube.com/channel/UCwKi3Gnyc-gu_lznodaGKSw",
+        "technologies": [
+          {
+            "class": "fas fa-photo-video",
+            "name": "Adobe After Effects"
+          },
+          {
+            "class": "fas fa-camera-retro",
+            "name": "Adobe Premier Pro"
+          },
+          {
+            "class": "fab fa-youtube",
+            "name": "YouTube"
+          }
+        ]
+      }
+    ],
     "experience": [
       {
         "company": "The Wedding Coach",
@@ -87,9 +140,9 @@
         "years": "07.2017 - presente",
         "mainTech": ["Comando","Marketing","I saldi","Sviluppo"],
         "technologies": [""],
-        "blurb1":["Mi sono valutato nel 5% più alto di tutti i professionisti del matrimonio."],
-        "blurb2":["Aumento del fatturato del 50% anno su anno."],
-        "blurb3":["Semplificato il processo di registrazione con l'uso di un'app."]
+        "blurb1":["Ho valutato le esigenze dei clienti e identificato le lacune nelle offerte attuali per elevarmi nel 5% più alto di tutti i professionisti del matrimonio negli Stati Uniti."],
+        "blurb2":["Ha diretto un team di 5 persone massimizzando le prenotazioni per aumentare le entrate del 50% anno su anno"],
+        "blurb3":["Semplificato il processo di registrazione tramite un'app anziché il tipico pdf per aumentare la facilità d'uso e le prenotazioni portando a un aumento del 15% nella conversione di nuovi utenti."]
       },
       {
         "company": "Ganley Westside Imports",
@@ -97,9 +150,9 @@
         "years": "11.2019 - 11.2020",
         "mainTech": ["I saldi","Marketing"],
         "technologies": [""],
-          "blurb1":["Campagna di marketing implementata per la concessionaria tramite annunci locali di Facebook."],
-          "blurb2":["Raggiunta la prima posizione di vendita all'interno della concessionaria entro i primi 3 mesi."],
-          "blurb3":[""]
+          "blurb1":["Implementata campagna di marketing locale Volkswagen per concessionari tramite annunci locali di Facebook"],
+          "blurb2":["Raggiunta la prima posizione di vendita all'interno della concessionaria durante i primi 3 mesi."],
+          "blurb3":["Ho lavorato con più reparti per guidare il mio successo e il successo del mio team nel suo complesso, mantenendo una comunicazione costante e sviluppando le vendite trasversali attraverso il gioco di ruolo e la conoscenza dei processi."]
       },
       {
         "company": "Sentient Studios",
@@ -107,9 +160,9 @@
         "years": "10.2018 - 11.2019",
         "mainTech": ["I saldi","Marketing", "Animazione"],
         "technologies": [""],
-        "blurb1":["Sviluppato un'app di vendita con Android Studio."],
-        "blurb2":["Ha costruito un portafoglio di vendite stabile raggiungendo $ 500.000 con un obiettivo di $ 200.000."],
-        "blurb3":["Ha prodotto video di marketing, animazioni e grafica 3D progettati in Cinema4D."]
+        "blurb1":["Sviluppato un'app di vendita con Android Studio. "," Ha creato un portafoglio di vendite stabile raggiungendo $ 500.000 con un obiettivo di $ 200.000."],
+        "blurb2":["Ha prodotto video di marketing, animazioni e grafica 3D progettati in Cinema4D"],
+        "blurb3":[""]
       },
       {
         "company": "Fifth Third Bank",
@@ -117,8 +170,8 @@
         "years": "10.2017 - 09.2018",
         "mainTech": ["Finanza", "I saldi"],
         "technologies": [""],
-          "blurb1":["Portafoglio clienti ampliato con l'introduzione di prodotti per il miglioramento della ricchezza."],
-          "blurb2":["Utilizzo di un approccio di vendita equilibrato, per raggiungere gli obiettivi di vendita."],
+          "blurb1":["Portafoglio clienti ampliato con l'introduzione di prodotti per il miglioramento della ricchezza che spingono l'obiettivo della filiale oltre il 118%."],
+          "blurb2":["Ha utilizzato un approccio di vendita equilibrato, includendo regolarmente i partner commerciali per raggiungere gli obiettivi di vendita."],
           "blurb3":[""]
       },
       {
@@ -127,9 +180,9 @@
         "years": "06.2016 - 10.2017",
         "mainTech": ["Finance", "I saldi", "Marketing"],
         "technologies": [""],
-        "blurb1":["Lancio del marketing con Google Ads; $ 2.000 - $ 6.000 mensili."],
-        "blurb2":["Prestiti ai clienti amministrati e chiusi"],
-        "blurb3":["Rapporti sviluppati e mantenuti con i partner."]
+        "blurb1":["Lanciata una campagna di marketing con Google Ads che si rivolgeva ai clienti in località di elevato valore immobiliare che stavano attualmente affittando o cercando attivamente una nuova casa con un budget di $ 2.000 - $ 6.000 mensili, guadagnando in media 5 milioni di prestiti aggiuntivi in ​​prestiti scritti mensilmente."],
+        "blurb2":["Prestiti ai clienti amministrati e chiusi all'interno di Encompass esaminando entrate, attività e crediti per ottenere il massimo importo di approvazione possibile."],
+        "blurb3":["Rapporti sviluppati e mantenuti con i partner con chiamate settimanali e newsletter mensili."]
       },
       {
         "company": "Verizon",
@@ -137,8 +190,8 @@
         "years": "08.2015 - 06.2016",
         "mainTech": ["Sviluppo aziendale", "I saldi"],
         "technologies": [""],
-        "blurb1":["Strategia di vendita dei partner commerciali sviluppata che produce il 13% su base mensile"],
-        "blurb2":["Obiettivi di vendita del team superati del 300%."],
+        "blurb1":["Sviluppata una strategia di vendita dei partner commerciali che produce il 13% su base mensile includendo il team di vendita rivolto al cliente per aiutare a raccogliere contatti qualificati di clienti aziendali sconosciuti."],
+        "blurb2":["Superati gli obiettivi di vendita del team del 300% scoprendo le esigenze non rivelate dei clienti e consigliando prodotti e servizi aggiuntivi per aiutarli a soddisfare tali esigenze."],
         "blurb3":[""]
       },
       {
@@ -147,9 +200,9 @@
         "years": "08.2013 - 08.2015",
         "mainTech": ["Sviluppo aziendale", "I saldi", "Comando", "Marketing"],
         "technologies": [""],
-        "blurb1":["Creato strategie di marketing su Internet che hanno portato a un aumento delle vendite del 38%."],
-        "blurb2":["Supporto del team di vendita nella chiusura di contratti per un totale di oltre 1 milione di dollari per evento."],
-        "blurb3":["Raccogli fondi per enti di beneficenza con il presidente Bill Clinton e Hugh Hefner ..."]
+        "blurb1":["Creato e lanciato nuove strategie di marketing su Internet che hanno portato a un aumento delle vendite del 38%."],
+        "blurb2":["Ha supportato il team di vendita nella scrittura di proposte e nella chiusura di contratti per un totale di oltre $ 1MM per evento."],
+        "blurb3":["Eventi pianificati che hanno sfruttato le presenze di celebrità della lista A per raccogliere fondi per enti di beneficenza."]
       },
       {
         "company": "Quicken Loans",
@@ -157,8 +210,8 @@
         "years": "12.2011 - 08.2014",
         "mainTech": ["Finanza", "Comando", "I saldi"],
         "technologies": [""],
-          "blurb1":["Classificato tra i primi 5% degli addetti alle vendite a livello regionale"],
-          "blurb2":["Superato regolarmente l'obiettivo di vendita di oltre il 70%"],
+          "blurb1":["Classificato al 5% più alto degli addetti alle vendite a livello regionale, producendo costantemente obiettivi di vendita."],
+          "blurb2":["Superato regolarmente l'obiettivo di vendita di oltre il 70% cercando opportunità con i clienti passati che i banchieri stavano trascurando."],
           "blurb3":["Flusso di entrate gestito di $ 750 milioni all'anno."]
       },
       {
@@ -167,9 +220,9 @@
         "years": "10.2006 - 12.2011",
         "mainTech": ["Comando", "I saldi"],
         "technologies": [""],
-          "blurb1":["Aumento dei ricavi dei servizi del 210% entro il primo anno come Sales Manager."],
-          "blurb2":["Obiettivo di vendita annuale regionale superato del 112%."],
-          "blurb3":["Supervisionato una forza vendita di 8 addetti alle vendite."]
+          "blurb1":["Aumento dei ricavi del servizio del 210% entro il primo anno come Sales Manager esaminando ogni interazione del cliente con l'addetto alle vendite e istruendo su come migliorare ogni interazione."],
+          "blurb2":["Superato l'obiettivo di vendita annuale regionale del 112% aumentando l'offerta di servizi."],
+          "blurb3":["Ha supervisionato una forza vendita di 8 addetti alle vendite."]
       }
     ]
   }

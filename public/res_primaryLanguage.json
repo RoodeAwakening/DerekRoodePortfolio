@@ -111,8 +111,11 @@
       "startDate": "2018",
       "description": "Traveling the world and diving! A channel to document the journey.",
       "images": [
-        "images/portfolio/sentient/sentient02.gif",
-        "images/portfolio/sentient/sentient01.gif"
+        "images/portfolio/travelingdiver/diver01.gif",
+        "images/portfolio/travelingdiver/diver03.gif",
+        "images/portfolio/travelingdiver/diver04.gif",
+        "images/portfolio/travelingdiver/diver02.gif"
+        
       ],
       "url": "https://www.youtube.com/channel/UCwKi3Gnyc-gu_lznodaGKSw",
       "technologies": [
@@ -138,9 +141,9 @@
       "years": "07.2017 - present",
       "mainTech": ["Leadership","Marketing","Sales","Development"],
       "technologies": [""],
-      "blurb1":["Evaluated myself within the top 5% of all wedding professionals."],
-      "blurb2":["Increased revenue by 50% year over year."],
-      "blurb3":["treamlined the signup process through with the use of an app."]
+      "blurb1":["Evaluated customers needs and identified gaps in current offerings to elevate myself within the top 5% of all wedding professionals across the United States."],
+      "blurb2":["Directed a team of 5 people while maximizing bookings for increased revenue by 50% year over year"],
+      "blurb3":["Streamlined the signup process through an app rather than the typical pdf to increase ease of use and bookings leading to a 15% increase in new user conversion."]
     },
     {
       "company": "Ganley Westside Imports",
@@ -148,9 +151,9 @@
       "years": "11.2019 - 11.2020",
       "mainTech": ["Sales","Marketing"],
       "technologies": [""],
-      "blurb1":["Implemented Marketing campaign for dealership through Facebook local ads. "],
-      "blurb2":["Achieved top sales position within dealership within the first 3 months."],
-      "blurb3":[""]
+      "blurb1":["Implemented Local Volkswagen Marketing campaign for dealership through Facebook local ads.  "],
+      "blurb2":["Achieved top sales position within dealership during the first 3 months."],
+      "blurb3":["Worked with multiple departments to drive my success as well as my team's success as a whole by keeping constant communication and developing cross department sales by roleplaying and building knowledge of processes."]
 
     },
     {
@@ -169,8 +172,8 @@
       "years": "10.2017 - 09.2018",
       "mainTech": ["Finance", "Sales"],
       "technologies": [""],
-      "blurb1":["Expanded clients portfolio with introduction of wealth enhancement products."],
-      "blurb2":["Utilized a balanced sales approach, to meet sales goals."],
+      "blurb1":["Expanded clients portfolio with introduction of wealth enhancement products pushing the branch goal over 118%."],
+      "blurb2":["Utilized a balanced sales approach, regularly including business partners to meet sales goals."],
       "blurb3":[""]
     },
     {
@@ -179,9 +182,9 @@
       "years": "06.2016 - 10.2017",
       "mainTech": ["Finance", "Sales", "Marketing"],
       "technologies": [""],
-      "blurb1":["Marketing launch with Google Ads; $2,000 - $6,000 Monthly."],
-      "blurb2":["Administered and closed customer loans."],
-      "blurb3":["Developed and maintained relationships with partners."]
+      "blurb1":["Launched a marketing campaign with Google Ads that targeted customers in high property value locations that were currently renting or actively looking for a new house on a budget of $2,000 - $6,000 Monthly earning an additional 5MM on average  in loans written monthly."],
+      "blurb2":["Administered and closed customer loans within Encompass by reviewing income, assets and credit to get the highest approval amount possible."],
+      "blurb3":["Developed and maintained relationships with partners with weekly calls and monthly newsletters."]
     },
     {
       "company": "Verizon",
@@ -189,8 +192,8 @@
       "years": "08.2015 - 06.2016",
       "mainTech": ["Business Development", "Sales"],
       "technologies": [""],
-      "blurb1":["Developed business partner sales strategy producing 13% MoM"],
-      "blurb2":["Exceeded team sales goals by 300%"],
+      "blurb1":["Developed business partner sales strategy producing 13% MoM by including the customer facing sales team to help gather qualified leads of undiscovered business customers."],
+      "blurb2":["Exceeded team sales goals by 300% by discovering undisclosed needs of customers and recommending added products and services to help achieve those needs."],
       "blurb3":[""]
     },
     {
@@ -199,9 +202,9 @@
       "years": "08.2013 - 08.2015",
       "mainTech": ["Business Development", "Sales", "Leadership", "Marketing"],
       "technologies": [""],
-      "blurb1":["Created Internet marketing strategies that resulted in a 38% sales increase."],
-      "blurb2":["Supported sales team in closing contracts totaling over $1MM per event."],
-      "blurb3":["Raise money for charities with President Bill Clinton and Hugh Hefner  ..."]
+      "blurb1":["Created and launched new Internet marketing strategies that resulted in a 38% sales increase."],
+      "blurb2":["Supported sales team in writing proposals and closing contracts totaling over $1MM per event."],
+      "blurb3":["Planned events which leveraged A list celebrity presences to raise money for charities."]
     },
     {
       "company": "Quicken Loans",
@@ -209,9 +212,9 @@
       "years": "12.2011 - 08.2014",
       "mainTech": ["Finance", "Leadership", "Sales"],
       "technologies": [""],
-      "blurb1":["Ranked at top 5% of sales associates regionally"],
-      "blurb2":["Regularly exceeded sales goal by over 70%"],
-      "blurb3":["Managed revenue stream of $750MM annually"]
+      "blurb1":["Ranked at top 5% of sales associates regionally by consistently out producing sales goals."],
+      "blurb2":["Regularly exceeded sales goal by over 70% by looking for opportunities with past clients that bankers were overlooking."],
+      "blurb3":["Managed revenue stream of $750MM annually."]
     },
     {
       "company": "Best Buy",
@@ -219,8 +222,8 @@
       "years": "10.2006 - 12.2011",
       "mainTech": ["Leadership", "Sales"],
       "technologies": [""],
-      "blurb1":["Increased service revenues by 210% within the first year as Sales Manager."],
-      "blurb2":["Exceeded regional annual sales target by 112%."],
+      "blurb1":["Increased service revenues by 210% within the first year as Sales Manager by reviewing every customer interaction with the sales associate and coaching on how to improve each interaction."],
+      "blurb2":["Exceeded regional annual sales target by 112% by increasing service offerings."],
       "blurb3":["Supervised a sales force of 8 sales associates."]
     }
   ]

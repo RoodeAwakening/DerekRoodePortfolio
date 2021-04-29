@@ -81,6 +81,59 @@
       ]
     }
   ],
+  "media": [
+    {
+      "title": "Sentient Studios",
+      "startDate": "2019",
+      "description": "Specialized in 3D graphics, Video editing, Production as well as marketing and sales.",
+      "images": [
+        "images/portfolio/sentient/sentient02.gif",
+        "images/portfolio/sentient/sentient01.gif"
+      ],
+      "url": "http://sentientstudios.ltd/",
+      "technologies": [
+        {
+          "class": "fas fa-photo-video",
+          "name": "Adobe After Effects"
+        },
+        {
+          "class": "fas fa-camera-retro",
+          "name": "Adobe Premier Pro"
+        },
+        {
+          "class": "fas fa-cube",
+          "name": "Cinema 4D"
+        }
+      ]
+    },
+    {
+      "title": "The Traveling Diver",
+      "startDate": "2018",
+      "description": "Traveling the world and diving! A channel to document the journey.",
+      "images": [
+        "images/portfolio/travelingdiver/diver01.gif",
+        "images/portfolio/travelingdiver/diver03.gif",
+        "images/portfolio/travelingdiver/diver04.gif",
+        "images/portfolio/travelingdiver/diver02.gif"
+        
+      ],
+      "url": "https://www.youtube.com/channel/UCwKi3Gnyc-gu_lznodaGKSw",
+      "technologies": [
+        {
+          "class": "fas fa-photo-video",
+          "name": "Adobe After Effects"
+        },
+        {
+          "class": "fas fa-camera-retro",
+          "name": "Adobe Premier Pro"
+        },
+        {
+          "class": "fab fa-youtube",
+          "name": "YouTube"
+        }
+      ]
+    }
+  ],
   "experience": [
     {
       "company": "The Wedding Coach",

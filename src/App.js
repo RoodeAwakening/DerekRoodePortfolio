@@ -123,6 +123,7 @@ class App extends Component {
         />
         <Projects
           resumeProjects={this.state.resumeData.projects}
+          resumeMedia={this.state.resumeData.media}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
         <Skills

@@ -136,7 +136,7 @@
     "experience": [
       {
         "company": "The Wedding Coach",
-        "title": "Amministratore delegato",
+        "title": "Imprenditore",
         "years": "07.2017 - presente",
         "mainTech": ["Comando","Marketing","I saldi","Sviluppo"],
         "technologies": [""],
@@ -145,19 +145,9 @@
         "blurb3":["Semplificato il processo di registrazione tramite un'app anziché il tipico pdf per aumentare la facilità d'uso e le prenotazioni portando a un aumento del 15% nella conversione di nuovi utenti."]
       },
       {
-        "company": "Ganley Westside Imports",
-        "title": "Esperto di Vendite",
-        "years": "11.2019 - 11.2020",
-        "mainTech": ["I saldi","Marketing"],
-        "technologies": [""],
-          "blurb1":["Implementata campagna di marketing locale Volkswagen per concessionari tramite annunci locali di Facebook"],
-          "blurb2":["Raggiunta la prima posizione di vendita all'interno della concessionaria durante i primi 3 mesi."],
-          "blurb3":["Ho lavorato con più reparti per guidare il mio successo e il successo del mio team nel suo complesso, mantenendo una comunicazione costante e sviluppando le vendite trasversali attraverso il gioco di ruolo e la conoscenza dei processi."]
-      },
-      {
         "company": "Sentient Studios",
-        "title": "Senior Account Executive",
-        "years": "10.2018 - 11.2019",
+        "title": "Sviluppatore",
+        "years": "10.2018 - 11.2020",
         "mainTech": ["I saldi","Marketing", "Animazione"],
         "technologies": [""],
         "blurb1":["Sviluppato un'app di vendita con Android Studio. "," Ha creato un portafoglio di vendite stabile raggiungendo $ 500.000 con un obiettivo di $ 200.000."],

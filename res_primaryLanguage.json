@@ -137,7 +137,7 @@
   "experience": [
     {
       "company": "The Wedding Coach",
-      "title": "Chief Executive Officer",
+      "title": "Business Owner",
       "years": "07.2017 - present",
       "mainTech": ["Leadership","Marketing","Sales","Development"],
       "technologies": [""],
@@ -146,20 +146,9 @@
       "blurb3":["Streamlined the signup process through an app rather than the typical pdf to increase ease of use and bookings leading to a 15% increase in new user conversion."]
     },
     {
-      "company": "Ganley Westside Imports",
-      "title": "Sales Specialist",
-      "years": "11.2019 - 11.2020",
-      "mainTech": ["Sales","Marketing"],
-      "technologies": [""],
-      "blurb1":["Implemented Local Volkswagen Marketing campaign for dealership through Facebook local ads.  "],
-      "blurb2":["Achieved top sales position within dealership during the first 3 months."],
-      "blurb3":["Worked with multiple departments to drive my success as well as my team's success as a whole by keeping constant communication and developing cross department sales by roleplaying and building knowledge of processes."]
-
-    },
-    {
       "company": "Sentient Studios",
-      "title": "Senior Account Executive",
-      "years": "10.2018 - 11.2019",
+      "title": "Developer",
+      "years": "10.2018 - 11.2020",
       "mainTech": ["Sales","Marketing","Animation"],
       "technologies": ["JavaScript", "Android Studio"],
       "blurb1":["Developed a sales app with Android Studio.","Built a steady sales portfolio reaching $500k on a goal of $200k."],

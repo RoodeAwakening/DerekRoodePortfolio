@@ -137,13 +137,23 @@
   "experience": [
     {
       "company": "The Wedding Coach",
-      "title": "Business Owner",
-      "years": "07.2017 - present",
-      "mainTech": ["Leadership","Marketing","Sales","Development"],
-      "technologies": [""],
+      "title": "Junior Software Engineer",
+      "years": "07.2019 - present",
+      "mainTech": ["UX","UI"],
+      "technologies": ["React","Redux","Flask"],
+      "blurb1":["Streamlined the signup process through an app rather than the typical pdf to increase ease of use and bookings leading to a 15% increase in new user conversion."],
+      "blurb2":["Worked on the development team for our web app for new clients developed in React/ Redux."],
+      "blurb3":["Updated DJ booking portal to work seamlessly with the client side mobile platform."]
+    },
+    {
+      "company": "The Wedding Coach",
+      "title": "Event Planning Specialist",
+      "years": "07.2017 - 07-2019",
+      "mainTech": ["Sales","Leadership","Marketing"],
+      "technologies": [],
       "blurb1":["Evaluated customers needs and identified gaps in current offerings to elevate myself within the top 5% of all wedding professionals across the United States."],
-      "blurb2":["Directed a team of 5 people while maximizing bookings for increased revenue by 50% year over year"],
-      "blurb3":["Streamlined the signup process through an app rather than the typical pdf to increase ease of use and bookings leading to a 15% increase in new user conversion."]
+      "blurb2":["Directed a team of 5 people while maximizing bookings for increased revenue by 50% year over year."],
+      "blurb3":[""]
     },
     {
       "company": "Sentient Studios",

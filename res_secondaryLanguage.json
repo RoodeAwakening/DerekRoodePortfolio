@@ -136,13 +136,23 @@
     "experience": [
       {
         "company": "The Wedding Coach",
-        "title": "Imprenditore",
-        "years": "07.2017 - presente",
-        "mainTech": ["Comando","Marketing","I saldi","Sviluppo"],
-        "technologies": [""],
-        "blurb1":["Ho valutato le esigenze dei clienti e identificato le lacune nelle offerte attuali per elevarmi nel 5% più alto di tutti i professionisti del matrimonio negli Stati Uniti."],
-        "blurb2":["Ha diretto un team di 5 persone massimizzando le prenotazioni per aumentare le entrate del 50% anno su anno"],
-        "blurb3":["Semplificato il processo di registrazione tramite un'app anziché il tipico pdf per aumentare la facilità d'uso e le prenotazioni portando a un aumento del 15% nella conversione di nuovi utenti."]
+        "title": "Ingegnere software junior",
+        "years": "07.2019 - presente",
+        "mainTech": ["UX","UI"],
+        "technologies": ["React","Redux","Flask"],
+        "blurb1":["Semplificato il processo di registrazione tramite un'app anziché il tipico pdf per aumentare la facilità d'uso e le prenotazioni portando a un aumento del 15% nella conversione di nuovi utenti."],
+        "blurb2":["Ha lavorato al team di sviluppo per la nostra app web per i nuovi clienti sviluppati in React/ Redux."],
+        "blurb3":["Portale di prenotazione DJ aggiornato per funzionare perfettamente con la piattaforma mobile lato client."]
+      },
+      {
+        "company": "The Wedding Coach",
+        "title": "Specialista in pianificazione di eventi Event",
+        "years": "07.2017 - 07-2019",
+        "mainTech": ["I saldi","Comando","Marketing"],
+        "technologies": [],
+        "blurb1":["Ho valutato le esigenze dei clienti e identificato le lacune nelle offerte attuali per elevarmi tra i primi 5% di tutti i professionisti del matrimonio negli Stati Uniti."],
+        "blurb2":["Ha diretto un team di 5 persone massimizzando le prenotazioni per un aumento delle entrate del 50% anno su anno."],
+        "blurb3":[""]
       },
       {
         "company": "Sentient Studios",

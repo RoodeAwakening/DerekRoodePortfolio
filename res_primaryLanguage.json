@@ -146,19 +146,9 @@
       "blurb3":["Updated DJ booking portal to work seamlessly with the client side mobile platform."]
     },
     {
-      "company": "The Wedding Coach",
-      "title": "Event Planning Specialist",
-      "years": "07.2017 - 07-2019",
-      "mainTech": ["Sales","Leadership","Marketing"],
-      "technologies": [],
-      "blurb1":["Evaluated customers needs and identified gaps in current offerings to elevate myself within the top 5% of all wedding professionals across the United States."],
-      "blurb2":["Directed a team of 5 people while maximizing bookings for increased revenue by 50% year over year."],
-      "blurb3":[""]
-    },
-    {
       "company": "Sentient Studios",
       "title": "Developer",
-      "years": "10.2018 - 11.2020",
+      "years": "10.2018 - 11.2019",
       "mainTech": ["Sales","Marketing","Animation"],
       "technologies": ["JavaScript", "Android Studio"],
       "blurb1":["Developed a sales app with Android Studio.","Built a steady sales portfolio reaching $500k on a goal of $200k."],

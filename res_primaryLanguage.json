@@ -137,8 +137,8 @@
   "experience": [
     {
       "company": "The Wedding Coach",
-      "title": "Junior Software Engineer",
-      "years": "07.2019 - present",
+      "title": "Software Engineer Intern",
+      "years": "08.2021 - present",
       "mainTech": ["UX","UI"],
       "technologies": ["React","Redux","Flask"],
       "blurb1":["Streamlined the signup process through an app rather than the typical pdf to increase ease of use and bookings leading to a 15% increase in new user conversion."],
@@ -147,8 +147,8 @@
     },
     {
       "company": "Sentient Studios",
-      "title": "Developer",
-      "years": "10.2018 - 11.2019",
+      "title": "Content Marketing Specialist",
+      "years": "10.2018 - 11.2020",
       "mainTech": ["Sales","Marketing","Animation"],
       "technologies": ["JavaScript", "Android Studio"],
       "blurb1":["Developed a sales app with Android Studio.","Built a steady sales portfolio reaching $500k on a goal of $200k."],

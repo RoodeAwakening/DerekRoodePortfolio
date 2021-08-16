@@ -136,8 +136,8 @@
     "experience": [
       {
         "company": "The Wedding Coach",
-        "title": "Ingegnere software junior",
-        "years": "07.2019 - presente",
+        "title": "Stagista ingegnere del software",
+        "years": "08.2021 - presente",
         "mainTech": ["UX","UI"],
         "technologies": ["React","Redux","Flask"],
         "blurb1":["Semplificato il processo di registrazione tramite un'app anziché il tipico pdf per aumentare la facilità d'uso e le prenotazioni portando a un aumento del 15% nella conversione di nuovi utenti."],
@@ -146,7 +146,7 @@
       },
       {
         "company": "Sentient Studios",
-        "title": "Sviluppatore",
+        "title": "Specialista di marketing dei contenuti",
         "years": "10.2018 - 11.2019",
         "mainTech": ["I saldi","Marketing", "Animazione"],
         "technologies": [""],

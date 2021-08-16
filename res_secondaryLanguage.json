@@ -136,8 +136,8 @@
     "experience": [
       {
         "company": "The Wedding Coach",
-        "title": "Stagista ingegnere del software",
-        "years": "08.2021 - presente",
+        "title": "Ingegnere del software",
+        "years": "11.2019 - presente",
         "mainTech": ["UX","UI"],
         "technologies": ["React","Redux","Flask"],
         "blurb1":["Semplificato il processo di registrazione tramite un'app anziché il tipico pdf per aumentare la facilità d'uso e le prenotazioni portando a un aumento del 15% nella conversione di nuovi utenti."],

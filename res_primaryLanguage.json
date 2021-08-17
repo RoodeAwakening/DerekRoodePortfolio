@@ -155,13 +155,16 @@
     },
     {
       "company": "Sentient Studios",
-      "title": "Content Marketing Specialist",
+      "title": "Software Engineer",
       "years": "10.2018 - 11.2019",
-      "mainTech": ["Sales","Marketing","Animation"],
+      "mainTech": ["Marketing","Animation","React", "UX","UI"],
       "technologies": ["JavaScript", "Android Studio"],
-      "blurb1":["Developed a sales app with Android Studio.","Built a steady sales portfolio reaching $500k on a goal of $200k."],
-      "blurb2":["Produced marketing videos, animations and 3d graphics designed in Cinema4D"],
-      "blurb3":[""]
+      "blurb1":["Worked on the Android application development team building proprietary sales apps within Android studio."],
+      "blurb2":["Redesigned company internal CRM and customer facing website using React."],
+      "blurb3":["Produced multiple marketing videos and animations to showcase our products including 3D graphics designed in Cinema4D."],
+      "blurb4":["Developed multiple interactive kiosks in React for fortune 500 clients."]
+
+
     },
     {
       "company": "Fifth Third Bank",

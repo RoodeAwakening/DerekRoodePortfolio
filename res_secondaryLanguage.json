@@ -154,13 +154,14 @@
       },
       {
         "company": "Sentient Studios",
-        "title": "Specialista di marketing dei contenuti",
-        "years": "10.2018 - 11.2019",
-        "mainTech": ["I saldi","Marketing", "Animazione"],
+        "title": "Ingegnere del software",
+        "years": "10.2018 - 11.2020",
+        "mainTech": ["Marketing", "Animazione","React", "UX","UI"],
         "technologies": [""],
-        "blurb1":["Sviluppato un'app di vendita con Android Studio. "," Ha creato un portafoglio di vendite stabile raggiungendo $ 500.000 con un obiettivo di $ 200.000."],
-        "blurb2":["Ha prodotto video di marketing, animazioni e grafica 3D progettati in Cinema4D"],
-        "blurb3":[""]
+        "blurb1":["Ha lavorato nel team di sviluppo di applicazioni Android creando app di vendita proprietarie all'interno di Android Studio."],
+        "blurb2":["Riprogettato il CRM interno dell'azienda e il sito Web rivolto ai clienti utilizzando React."],
+        "blurb3":["Ha prodotto più video e animazioni di marketing per mostrare i nostri prodotti, inclusa la grafica 3D progettata in Cinema4D."],
+        "blurb4":["Sviluppato più chioschi interattivi in React per i clienti di fortune 500."]
       },
       {
         "company": "Fifth Third Bank",

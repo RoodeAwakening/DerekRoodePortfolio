@@ -137,12 +137,20 @@
       {
         "company": "The Wedding Coach",
         "title": "Ingegnere del software",
-        "years": "11.2019 - presente",
+        "years": "04.2021 - presente",
         "mainTech": ["UX","UI"],
         "technologies": ["React","Redux","Flask"],
         "blurb1":["Semplificato il processo di registrazione tramite un'app anziché il tipico pdf per aumentare la facilità d'uso e le prenotazioni portando a un aumento del 15% nella conversione di nuovi utenti."],
         "blurb2":["Ha lavorato al team di sviluppo per la nostra app web per i nuovi clienti sviluppati in React/ Redux."],
         "blurb3":["Portale di prenotazione DJ aggiornato per funzionare perfettamente con la piattaforma mobile lato client."]
+      },
+      {
+        "company": "App Academy",
+        "title": "Ingegnere del software",
+        "years": "11.2020 - 04.2021",
+        "mainTech": ["Python","Javascript"],
+        "technologies": ["React","Redux","Flask","UX","UI","React","Python","Node","PostgreSql"],
+        "blurb1":["Alunna"]       
       },
       {
         "company": "Sentient Studios",

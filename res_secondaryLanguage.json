@@ -42,7 +42,7 @@
           "images/portfolio/fetch/p1.jpg",
           "images/portfolio/fetch/p2.jpg"
         ],
-        "url": "https://www.fetchigram.com/",
+        "url": "https://fetch-dogstigram.herokuapp.com/",
         "technologies": [
           {
             "class": "devicon-react-original",

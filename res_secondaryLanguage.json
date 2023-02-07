@@ -42,7 +42,7 @@
           "images/portfolio/fetch/p1.jpg",
           "images/portfolio/fetch/p2.jpg"
         ],
-        "url": "https://fetch-dogstigram.herokuapp.com/",
+        "url": "https://fetch-dogstigram.herokuapp.com/feed",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -136,8 +136,8 @@
     "experience": [
       {
         "company": "The Wedding Coach",
-        "title": "Ingegnere del software",
-        "years": "04.2021 - presente",
+        "title": "Ingegnere software junior",
+        "years": "07.2019 - presente",
         "mainTech": ["UX","UI"],
         "technologies": ["React","Redux","Flask"],
         "blurb1":["Semplificato il processo di registrazione tramite un'app anziché il tipico pdf per aumentare la facilità d'uso e le prenotazioni portando a un aumento del 15% nella conversione di nuovi utenti."],
@@ -145,23 +145,14 @@
         "blurb3":["Portale di prenotazione DJ aggiornato per funzionare perfettamente con la piattaforma mobile lato client."]
       },
       {
-        "company": "App Academy",
-        "title": "Ingegnere del software",
-        "years": "11.2020 - 04.2021",
-        "mainTech": ["Python","Javascript"],
-        "technologies": ["React","Redux","Flask","UX","UI","React","Python","Node","PostgreSql"],
-        "blurb1":["Alunna"]       
-      },
-      {
         "company": "Sentient Studios",
-        "title": "Ingegnere del software",
-        "years": "10.2018 - 11.2020",
-        "mainTech": ["Marketing", "Animazione","React", "UX","UI"],
+        "title": "Sviluppatore",
+        "years": "10.2018 - 11.2019",
+        "mainTech": ["I saldi","Marketing", "Animazione"],
         "technologies": [""],
-        "blurb1":["Ha lavorato nel team di sviluppo di applicazioni Android creando app di vendita proprietarie all'interno di Android Studio."],
-        "blurb2":["Riprogettato il CRM interno dell'azienda e il sito Web rivolto ai clienti utilizzando React."],
-        "blurb3":["Ha prodotto più video e animazioni di marketing per mostrare i nostri prodotti, inclusa la grafica 3D progettata in Cinema4D."],
-        "blurb4":["Sviluppato più chioschi interattivi in React per i clienti di fortune 500."]
+        "blurb1":["Sviluppato un'app di vendita con Android Studio. "," Ha creato un portafoglio di vendite stabile raggiungendo $ 500.000 con un obiettivo di $ 200.000."],
+        "blurb2":["Ha prodotto video di marketing, animazioni e grafica 3D progettati in Cinema4D"],
+        "blurb3":[""]
       },
       {
         "company": "Fifth Third Bank",
